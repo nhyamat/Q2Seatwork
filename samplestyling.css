@@ -1,0 +1,26 @@
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	text-shadow: 2px 2px 5px blue;
+	font-family: biorhyme;
+	font-size: 45px;
+	letter-spacing: 20px;
+	color: orange;
+}
+table {
+	text-align: center;
+	background-color: lightgray;
+	opacity: 80%;
+	font-family: biorhyme;
+}
+th {
+	font-size: 24px;
+	background-color: blue;
+	color: orange;
+}
+body {
+	background-size: 100%;
+}
+.class1 {
+	opacity: 100%;
+}
